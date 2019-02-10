@@ -1,0 +1,17 @@
+{
+    "produtos": [
+      {
+        "nome" : "Shampoo",
+        "preco" : "2.50",
+        "unidadeMedida" : "UNID",
+        "categoria" : "HIGIENE"
+      },
+      {
+        "nome" : "Macarrão",
+        "preco" : "2.00",
+        "unidadeMedida" : "UNID",
+        "categoria" : "ALIMENTOS"
+      }
+    ]
+  }
+  
