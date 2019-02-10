@@ -25,3 +25,15 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+# Configurar projeto
+
+Entre na pasta do projeto e execute o comando "NPM install"
+
+# Json Server
+
+Abra um terminal e execute o seguinte comando "json-server --watch api.json"
+após executar o commando digite no browser "http://localhost:3000/" para testar se o servidor subiu.
+
+## OBS:
+  Existe um arquivo com nome api.json no projeto. Esse arquivo é utilizado pelo Json Server.
