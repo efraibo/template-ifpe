@@ -31,9 +31,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 Entre na pasta do projeto e execute o comando "npm install"
 
 # Json Server
+OBS: O json server vai simular uma api rest.
 
-Abra um terminal e execute o seguinte comando "json-server --watch api.json"
-após executar o commando digite no browser "http://localhost:3000/" para testar se o servidor subiu.
+Abra um terminal e execute o seguinte comando "json-server --watch api.json".
+Após executar o comando digite no browser "http://localhost:3000/" para testar se o servidor subiu.
 
 ## OBS:
   Existe um arquivo com nome api.json no projeto. Esse arquivo é utilizado pelo Json Server.
