@@ -28,7 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # Configurar projeto
 
-Entre na pasta do projeto e execute o comando "NPM install"
+Entre na pasta do projeto e execute o comando "npm install"
 
 # Json Server
 
